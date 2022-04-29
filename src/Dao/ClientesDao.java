@@ -30,7 +30,7 @@ public class ClientesDao {
             pstm.execute();
             pstm.close();
 
-        } catch (Exception erro) {
+        } catch (Exception e) {
 
       }
     }
